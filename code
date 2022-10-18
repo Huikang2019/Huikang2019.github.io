@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Huikang Liu</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="research.html" class="current">Research</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Huikang Liu</h1>
+</div>
+<h2>Summary</h2>
+<ul>
+<li><p><a href="https://scholar.google.com.hk/citations?hl=zh-TW&view_op=list_works&gmla=AJsN-F4Hxer9Q0p2DVoz7ohf5_jQO9V2yQ5zc05kLdbXYT2MlHmdCCS59L9aljmrRB0eH83ewjA7ru0u1IbQwtYfoXbJOC5fbKlZ7zvfb_YlxyqN9rULFsQ&user=2bNnCB0AAAAJ">Google Scholar Citation</a></p>
+</li>
+</ul>
+  
+<h2>Preprints</h2>
+<ul>
+<li><p>Josh D’Aeth, Shubhechyya Ghosal, Fiona Grimm, David Haw, Esma Koca, Krystal Lau, <b>Huikang Liu</b>, Stefano Moret, Dheeya Rizmie, Peter Smith, Giovanni Forchini, Marisa Miraldo, Wolfram Wiesemann. <i> Optimal Hospital Care Scheduling During the SARS-CoV-2 Pandemic,</i> 2021. Available on Optimization Online. <a href="http://www.optimization-online.org/DB_FILE/2021/02/8261.pdf">[pdf]</a></p>
+</li>
+</ul>
+<ul>
+<li><p><b>Huikang Liu</b>, Man-Chung Yue, Anthony Man-Cho So. <i> A Unified Approach to Synchronization Problems over Subgroups of the Orthogonal Group,</i> 2020. Available on Arxiv. <a href="https://arxiv.org/abs/2009.07514">[pdf]</a></p>
+</li>
+</ul>
+<ul>
+<li><p><b>Huikang Liu</b>, Xiaolu Wang, Anthony Man-Cho So. <i>Adaptive Coordinate
+Sampling for Stochastic Primal-Dual Methods,</i> 2020. <a href="itor_revision.pdf">[pdf]</a></p>
+</li>
+</ul>
+  
+<h2>Journal Articles</h2>
+<ul>
+<li><p><b>Huikang Liu</b>, Anthony Man-Cho So, Weijie Wu. <i>Quadratic Optimization with Orthogonality Constraint: Explicit Łojasiewicz Exponent and Linear Convergence of Retraction-Based Line-Search and Stochastic Variance-Reduced Gradient Methods.</i> <b>Mathematical Programming</b>, Series A, 2019. <a href="http://www1.se.cuhk.edu.hk/~manchoso/papers/qpwithoc_loj_ineq-MPA.pdf">[pdf]</a></p>
+</li>
+</ul>
+<ul>
+<li><p><b>Huikang Liu</b>, Man-Chung Yue, Anthony Man-Cho So. <i>On the Estimation Performance and Convergence Rate of the Generalized Power Method for Phase Synchronization</i>. <b>SIAM Journal on Optimization</b>, 2017, 27(4):2426-2446. <a href="http://www1.se.cuhk.edu.hk/~manchoso/papers/gpm_as-SIOPT.pdf">[pdf]</a></p>
+</li>
+</ul>
+  
+<h2>Refereed Conference Articles</h2>
+<ul>
+<li><p>Peng Wang, <b>Huikang Liu</b>, Zirui Zhou, Anthony Man-Cho So. <i>Near-Optimal Non-Convex Exact Recovery in Stochastic Block Model via Projected Gradient Method</i>. To appear in Proceedings of 38th International Conference on Machine Learning (<b>ICML 2021</b>), 2021.</p>
+</li>
+</ul>
+<ul>
+<li><p><b>Huikang Liu</b>, Xiaolu Wang, Jiajin Li, Anthony Man-Cho So. <i>Low-Cost Lipschitz-Independent Adaptive Importance Sampling of Stochastic Gradients</i>. To appear in Proceedings of 25th International Conference on Pattern Recognition (<b>ICPR 2020</b>), 2020.  <a href="ICPR2020_main.pdf">[pdf]</a><a href="ICPR2020_supp.pdf">[supplementary material]</a></p>
+</li>
+</ul>
+<ul>
+<li><p><b>Huikang Liu</b>, Zengde Deng, Xiao Li, Shixiang Chen, Anthony Man-Cho So. <i>Nonconvex Robust Synchronization of Rotations</i>. To appear in Proceedings of 12th Annual Workshop on Optimization for Machine Learning (<b>OPT 2020</b>), 2020. <a href="http://www.opt-ml.org/papers/2020/paper_97.pdf">[pdf]</a></p>
+</li>
+</ul>
+ <ul>
+<li><p><b>Huikang Liu</b>, Ruiyuan Wu, Wing-Kin Ma. <i>Is There Any Recovery Guar-antee with Coupled Structured Matrix Factorization for HyperspectralSuper-Resolution?</i>. To appear in Proceedings of 2019 IEEE International Workshop on Computational Ad-vances in Multi-Sensor Adaptive Processing (<b>CAMSAP 2019</b>), 2019. <a href="SuperResolution.pdf">[pdf]</a></p>
+</li>
+</ul>
+<ul>
+<li><p><b>Huikang Liu</b>, Peng Wang, Anthony Man-Cho So. <i>Fast First-Order Methods for the Massive Robust Multicast Beamforming Problem with Interference Temperature Constraints</i>. To appear in Proceedings of the 2019 IEEE International Conference on Acoustics, Speech, and Signal Processing (<b>ICASSP 2019</b>), 2019. <a href="http://www1.se.cuhk.edu.hk/~manchoso/papers/robust_beam_fom-icassp19.pdf">[pdf]</a><a href="conference_poster_4.pdf">[poster]</a></p>
+</li>
+</ul>
+<ul>
+<li><p>Peng Wang, <b>Huikang Liu</b>, Anthony Man-Cho So. <i>Globally Convergent Accelerated Proximal Alternating Maximization Method for L1-Principal Component Analysis</i>. To appear in Proceedings of the 2019 IEEE International Conference on Acoustics, Speech, and Signal Processing (<b>ICASSP 2019</b>), 2019. <a href="http://www1.se.cuhk.edu.hk/~manchoso/papers/robust_beam_fom-icassp19.pdf">[pdf]</a></p>
+</li>
+</ul>
+<ul>
+<li><p>Rujun Jiang, <b>Huikang Liu</b>, Anthony Man-Cho So. <i>LPA-SD: An Efficient First-Order Method for Single-Group Multicast Beamforming</i>. Proceedings of the 19th IEEE International Workshop on Signal Processing Advances in Wireless Communications (<b>SPAWC 2018</b>), 2018. <a href="http://www1.se.cuhk.edu.hk/~manchoso/papers/LPA_SD-spawc18.pdf">[pdf]</a></p>
+</li>
+</ul>
+<ul>
+<li><p><b>Huikang Liu</b>, Yuen-Man Pun, Anthony Man-Cho So. <i>Local Strong Convexity of Maximum-Likelihood TDOA-Based Source Localization and Its Algorithmic Implications</i>. Proceedings of the 7th IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (<b>CAMSAP 2017</b>), 2017. <a href="http://www1.se.cuhk.edu.hk/~manchoso/papers/TDOA_str_cvx-camsap17.pdf">[pdf]</a></p>
+</li>
+</ul>
+<ul>
+<li><p><b>Huikang Liu</b>, Man-Chung Yue, Anthony Man-Cho So, Wing-Kin Ma. <i>A Discrete First-Order Method for Large-Scale MIMO Detection with Provable Guarantees</i>. Proceedings of the 18th IEEE International Workshop on Signal Processing Advances in Wireless Communications (<b>SPAWC 2017</b>), pp. 669-673, 2017. <a href="http://www1.se.cuhk.edu.hk/~manchoso/papers/mimo_gpm-spawc17.pdf">[pdf]</a><a href="MIMO.zip">[code]</a></p>
+</li>
+</ul>
+<ul>
+<li><p><b>Huikang Liu</b>, Weijie Wu, Anthony Man-Cho So. <i>Quadratic Optimization with Orthogonality Constraints: Explicit Łojasiewicz Exponent and Linear Convergence of Line-Search Methods</i>. Proceedings of the 33rd International Conference on Machine Learning (<b>ICML 2016</b>), pp. 1158-1167, 2016. <a href="http://www1.se.cuhk.edu.hk/~manchoso/papers/qpwithoc_loj_ineq-icml16.pdf">[pdf + supplementary material]</a></p>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</body>
+</html>
